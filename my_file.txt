@@ -1,0 +1,6 @@
+Hello, World!
+Python is great.
+Numbers: 123, 456, 789
+Appending this line.
+Another line added.
+Final line in the file.
