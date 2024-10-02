@@ -1,2 +1,2 @@
 PLP 
-Python module
+Python module.
